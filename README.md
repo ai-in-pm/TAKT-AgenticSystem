@@ -2,6 +2,12 @@
 
 A sophisticated AI-powered system for implementing and managing TAKT planning in construction and manufacturing projects. The system utilizes six specialized AI agents, each with Ph.D.-level expertise in different aspects of TAKT planning.
 
+![image](https://github.com/user-attachments/assets/3a0d0229-d58b-4e64-9b49-2f87552d0b0c)
+![image](https://github.com/user-attachments/assets/b653fc22-564d-46b4-8cfc-fedf661733ba)
+![image](https://github.com/user-attachments/assets/3a55e9a5-eb0a-4ed7-90b6-f39a361a6f36)
+![image](https://github.com/user-attachments/assets/a607aaf5-de16-4d54-8414-7699a78c8941)
+
+
 ## 🤖 AI Agents
 
 1. **Dr. TAKT Strategy Architect**
