@@ -1,0 +1,13 @@
+openai>=1.0.0
+anthropic>=0.3.0
+groq>=0.3.0
+google-cloud-ai>=1.0.0
+cohere>=4.0.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+streamlit>=1.22.0
+plotly>=5.13.0
